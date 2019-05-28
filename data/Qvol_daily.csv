@@ -1,0 +1,10 @@
+Date,Year,Month,WaterYear,DischargeVolume626_Q_level,DischargeVolume626_Q_flags,DischargeVolume626,DischargeVolume626_Min,DischargeVolume626_Max,DischargeVolume693_Q_level,DischargeVolume693_Q_flags,DischargeVolume693,DischargeVolume693_Min,DischargeVolume693_Max,DischargeVolume703_Q_level,DischargeVolume703_Q_flags,DischargeVolume703,DischargeVolume703_Min,DischargeVolume703_Max,DischargeVolume708_Q_level,DischargeVolume708_Q_flags,DischargeVolume708,DischargeVolume708_Min,DischargeVolume708_Max,DischargeVolume819_Q_level,DischargeVolume819_Q_flags,DischargeVolume819,DischargeVolume819_Min,DischargeVolume819_Max,DischargeVolume844_Q_level,DischargeVolume844_Q_flags,DischargeVolume844,DischargeVolume844_Min,DischargeVolume844_Max,DischargeVolume1015_Q_level,DischargeVolume1015_Q_flags,DischargeVolume1015,DischargeVolume1015_Min,DischargeVolume1015_Max
+9/5/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,
+9/6/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,
+9/7/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,
+9/8/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,,1,,,,
+9/9/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,2,EV:SVC:1/24 EV,3493.29,0,10916.52,1,,,,,1,,,,,1,,,,
+9/10/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,2,SVC:stage unstable (~1 cm variations) following sensor installation,3043.92,0,11197.56,1,,,,,1,,,,,1,,,,
+9/11/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,2,SVC:stage unstable (~1 cm variations) following sensor installation,2480.52,0,11708.94,1,,,,,1,,,,,1,,,,
+9/12/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,2,SVC:stage unstable (~1 cm variations) following sensor installation,2208.72,0,11679.3,1,,,,,1,,,,,1,,,,
+9/13/2013,2013,Sep,2012-2013,1,,,,,1,,,,,1,,,,,2,SVC:stage unstable (~1 cm variations) following sensor installation,1873.89,0,11424.63,1,,,,,1,,,,,1,,,,
