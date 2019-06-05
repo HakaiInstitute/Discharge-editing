@@ -81,7 +81,7 @@ Qvol_5min_626 <- Qvol_5min %>%
 colnames(Qvol_5min_626) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_626 <- bind_cols(Qrate_5min_626, Qvol_5min_626)
-Q_5min_626$Area <- 3.2
+Q_5min_626$Area <- 3.17432237
 Q_5min_626 <- Q_5min_626 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -121,7 +121,7 @@ Qvol_5min_693 <- Qvol_5min %>%
 colnames(Qvol_5min_693) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_693 <- bind_cols(Qrate_5min_693, Qvol_5min_693)
-Q_5min_693$Area <- 3.2
+Q_5min_693$Area <- 9.28957799
 Q_5min_693 <- Q_5min_693 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -160,7 +160,7 @@ Qvol_5min_703 <- Qvol_5min %>%
 colnames(Qvol_5min_703) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_703 <- bind_cols(Qrate_5min_703, Qvol_5min_703)
-Q_5min_703$Area <- 3.2
+Q_5min_703$Area <- 12.79484494
 Q_5min_703 <- Q_5min_703 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -199,7 +199,7 @@ Qvol_5min_708 <- Qvol_5min %>%
 colnames(Qvol_5min_708) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_708 <- bind_cols(Qrate_5min_708, Qvol_5min_708)
-Q_5min_708$Area <- 3.2
+Q_5min_708$Area <- 7.79354467
 Q_5min_708 <- Q_5min_708 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -238,7 +238,7 @@ Qvol_5min_819 <- Qvol_5min %>%
 colnames(Qvol_5min_819) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_819 <- bind_cols(Qrate_5min_819, Qvol_5min_819)
-Q_5min_819$Area <- 3.2
+Q_5min_819$Area <- 4.81111942
 Q_5min_819 <- Q_5min_819 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -277,7 +277,7 @@ Qvol_5min_844 <- Qvol_5min %>%
 colnames(Qvol_5min_844) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_844 <- bind_cols(Qrate_5min_844, Qvol_5min_844)
-Q_5min_844$Area <- 3.2
+Q_5min_844$Area <- 5.70713684
 Q_5min_844 <- Q_5min_844 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 
@@ -316,7 +316,7 @@ Qvol_5min_1015 <- Qvol_5min %>%
 colnames(Qvol_5min_1015) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_5min_1015 <- bind_cols(Qrate_5min_1015, Qvol_5min_1015)
-Q_5min_1015$Area <- 3.2
+Q_5min_1015$Area <- 3.32698887
 Q_5min_1015 <- Q_5min_1015 %>%
   mutate(Qrate = round(Qrate, digits = 3)) %>% 
   mutate(Qrate_min = round(Qrate_min, digits = 3)) %>% 

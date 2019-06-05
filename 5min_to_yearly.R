@@ -331,7 +331,7 @@ colnames(Q_yearly)[11] <- "SVC"
 Q_yearly <- na.omit(Q_yearly)
 
 Watershed <- c("WTS626", "WTS693", "WTS703", "WTS708", "WTS819", "WTS844", "WTS1015")
-Area_km2 <- c(3.2,9.3,12.8,7.8,4.8,5.7,3.3)
+Area_km2 <- c(3.17432237,9.27957799,12.79484494,7.79354467,4.81111942,5.70713684,3.32698887)
 WTS_area <- data.frame(Watershed,Area_km2)
 
 Q_yearly <- merge(Q_yearly, WTS_area, by.x = 'Watershed')

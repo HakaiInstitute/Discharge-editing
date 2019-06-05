@@ -81,7 +81,7 @@ Qvol_hourly_626 <- Qvol_hourly %>%
 colnames(Qvol_hourly_626) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_626 <- bind_cols(Qrate_hourly_626, Qvol_hourly_626)
-Q_hourly_626$Area <- 3.2
+Q_hourly_626$Area <- 3.17432237
 Q_hourly_626 <- Q_hourly_626 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -107,7 +107,7 @@ Qvol_hourly_693 <- Qvol_hourly %>%
 colnames(Qvol_hourly_693) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_693 <- bind_cols(Qrate_hourly_693, Qvol_hourly_693)
-Q_hourly_693$Area <- 9.3
+Q_hourly_693$Area <- 9.27957799
 Q_hourly_693 <- Q_hourly_693 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -132,7 +132,7 @@ Qvol_hourly_703 <- Qvol_hourly %>%
 colnames(Qvol_hourly_703) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_703 <- bind_cols(Qrate_hourly_703, Qvol_hourly_703)
-Q_hourly_703$Area <- 12.8
+Q_hourly_703$Area <- 12.79484494
 Q_hourly_703 <- Q_hourly_703 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -157,7 +157,7 @@ Qvol_hourly_708 <- Qvol_hourly %>%
 colnames(Qvol_hourly_708) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_708 <- bind_cols(Qrate_hourly_708, Qvol_hourly_708)
-Q_hourly_708$Area <- 7.8
+Q_hourly_708$Area <- 7.79354467
 Q_hourly_708 <- Q_hourly_708 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -182,7 +182,7 @@ Qvol_hourly_819 <- Qvol_hourly %>%
 colnames(Qvol_hourly_819) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_819 <- bind_cols(Qrate_hourly_819, Qvol_hourly_819)
-Q_hourly_819$Area <- 4.8
+Q_hourly_819$Area <- 4.81111942
 Q_hourly_819 <- Q_hourly_819 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -207,7 +207,7 @@ Qvol_hourly_844 <- Qvol_hourly %>%
 colnames(Qvol_hourly_844) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_844 <- bind_cols(Qrate_hourly_844, Qvol_hourly_844)
-Q_hourly_844$Area <- 5.7
+Q_hourly_844$Area <- 5.70713684
 Q_hourly_844 <- Q_hourly_844 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
@@ -232,7 +232,7 @@ Qvol_hourly_1015 <- Qvol_hourly %>%
 colnames(Qvol_hourly_1015) <- c("Qvol", "Qvol_min", "Qvol_max")
 
 Q_hourly_1015 <- bind_cols(Qrate_hourly_1015, Qvol_hourly_1015)
-Q_hourly_1015$Area <- 3.3
+Q_hourly_1015$Area <- 3.32698887
 Q_hourly_1015 <- Q_hourly_1015 %>% 
   mutate(Qmm = Qvol/(Area*1000)) %>% 
   mutate(Qmm_min = Qvol_min/(Area*1000)) %>% 
